@@ -5,6 +5,15 @@
     background-attachment: fixed;
 }
 
+.gif{
+  max-height: 90vh; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  filter: brightness(0.7);
+}
+
+
 .container01{
     margin-top: 120vh;
 }
@@ -28,34 +37,39 @@ span{
     text-align: justify;
 }
 
+.pag{
+  background-color: black;
+}
 
-.content-group{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 90%;
-  }
-  
-  .pag{
-    height: 80vh;
-    background-color: black;
-  }
-  
-  .content{
-    display: flex;
-    gap: 80px;
-    flex-direction: row;
-  }
-  
-  .group{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-    color: white;
-    justify-content: center;
-  }
 
-  .subject{
-    font-size: 30px;
-  }
+
+.container02{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title3{
+  margin-top: 5rem;
+}
+
+.cards{
+  display: flex;
+  gap: 10px;
+}
+
+
+.cards2{
+  display: flex;
+  margin-top: 5rem;
+  justify-content: center;
+}
+
+.vamo{
+  color: white;
+}
+
+.image{
+  height: 85vh;
+}
