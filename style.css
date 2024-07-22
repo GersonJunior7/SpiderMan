@@ -40,7 +40,7 @@ span{
     color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 200;
-    font-size: 3.5vw;
+    font-size: 15px;
     width: 100%;
     text-align: justify;
 }
@@ -98,11 +98,8 @@ span{
   margin-top: 2rem;
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 8c774e0b8566cb9ac55c4972c2ed179fbcd34c6d
 @media(min-width: 768px){
   .gif{
     max-height: 90vh; 
@@ -113,15 +110,9 @@ span{
     font-size: 2.3vw;
 
   }
-<<<<<<< HEAD
   /* .video{
     width: 50vw;
   } */
-=======
-  .video{
-    width: 50vw;
-  }
->>>>>>> 8c774e0b8566cb9ac55c4972c2ed179fbcd34c6d
 }
 
 @media(min-width: 1024px){
@@ -131,18 +122,12 @@ span{
   }
 
   .paragraph{
-    font-size: 1.6vw;
+    font-size: 25px;
     width: 40vw;
   }
-<<<<<<< HEAD
   /* .video{
     width: 40vw;
   } */
-=======
-  .video{
-    width: 40vw;
-  }
->>>>>>> 8c774e0b8566cb9ac55c4972c2ed179fbcd34c6d
 
   .botao{
     width: 40vw;
@@ -158,14 +143,11 @@ span{
   .vamo{
     font-size: 16px;
   }
-<<<<<<< HEAD
 
   .video{
     width: 800px;
-    height: 575px;
+    height: 475px;
   }
   
-=======
->>>>>>> 8c774e0b8566cb9ac55c4972c2ed179fbcd34c6d
 }
 
